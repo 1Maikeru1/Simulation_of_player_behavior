@@ -13,9 +13,9 @@
 - время реакции — интервал между появлением объекта и кликом.
 - баллы — начисленные очки за действие.
 
-симуляция «игрок и объект»
+### Cимуляция «игрок и объект» ###
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8e34d3c4-fdbf-4eb4-b156-f28edb9d6427" />
 
-Собранные данные 
+### Собранные данные ###
 <img width="941" height="331" alt="image" src="https://github.com/user-attachments/assets/5ed12922-6668-4b21-87e2-664957394199" />
 
