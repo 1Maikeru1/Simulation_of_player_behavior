@@ -1,4 +1,22 @@
-# Симуляция поведения игрока
+# Симуляция поведения игрока в Unity: Исследовательский проект
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Issues](https://img.shields.io/github/issues/1Maikeru1/Simulation_of_player_behavior)](https://github.com/1Maikeru1/Simulation_of_player_behavior/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/1Maikeru1/Simulation_of_player_behavior)](https://github.com/1Maikeru1/Simulation_of_player_behavior/pulls)
+
+## О проекте
+
+Исследовательский проект по моделированию поведения игрока и сбору экспериментальных данных в контролируемой среде Unity.
+
+**Цель исследования:** Анализ паттернов взаимодействия игрока с динамическими объектами в игровой среде.
+
+**Задачи:**
+1. Создать симуляцию "игрок и объект" в Unity
+2. Реализовать систему сбора данных о взаимодействии
+3. Проанализировать показатели времени реакции и точности
+4. Визуализировать результаты исследования
+
+## Структура проекта
 
 При запуске приложения на экране генерируется заданное количество кругов. Игрок взаимодействует с кругами, нажимая на них левой кнопкой мыши. При нажатии на круг:
 - Объект исчезает
@@ -14,8 +32,14 @@
 - время реакции — интервал между появлением объекта и кликом
 - баллы — начисленные очки за действие
 
-## Cимуляция «игрок и объект»
+### Cимуляция «игрок и объект»
 <p align="center"><img alt="image" src="https://github.com/user-attachments/assets/8e34d3c4-fdbf-4eb4-b156-f28edb9d6427" /></p>
 
-## Собранные данные
+### Собранные данные
 <p align="center"><img alt="image" src="https://github.com/user-attachments/assets/5ed12922-6668-4b21-87e2-664957394199" /> </p>
+
+### Участие в проекте
+Мы приветствуем вклад в проект! Пожалуйста, ознакомьтесь с [CONTRIBUTING.md](CONTRIBUTING.md) перед началом работы.
+
+### Лицензия
+Этот проект лицензирован под MIT License - см. файл [LICENSE](LICENSE) для деталей.
